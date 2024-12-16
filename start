@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flash Transition</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <img src="your-image.jpg" alt="Clickable Image" id="clickableImage">
     <div id="flash"></div>
-    <script src="script.js"></script>
+    <script src="java/script.js"></script>
 </body>
 </html>
